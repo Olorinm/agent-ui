@@ -1,5 +1,7 @@
 # Agent UI
 
+> **Moved.** This package now lives in [Olorinm/mau](https://github.com/Olorinm/mau) under `web/ui`, with its history. This repository is archived and no longer updated.
+
 Reusable React chat and application components for any product. Rendering is independent of Agent Host: bring your own messages, event source, interaction callbacks, file operations and styling.
 
 This is an alpha package, distributed as a build archive. It is not published to the npm registry yet.
